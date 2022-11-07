@@ -1,0 +1,17 @@
+.qt-picker { 
+    margin-left: 5px;
+    margin-bottom: 5px;
+    border: 1px green solid;
+    padding: 10px;
+    border-radius: 10px; 
+    background-color: goldenrod;
+    border: black solid 2px;
+    text-align: center;
+    
+}
+
+.qt-picker button {
+    cursor: pointer; 
+    margin-left: 10px;
+    margin-right: 10px;
+}

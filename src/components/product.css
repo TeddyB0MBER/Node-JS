@@ -1,0 +1,28 @@
+.productLink h4 { 
+    
+    color: darkcyan;
+}
+.productLink { 
+    display: inline-block;
+    width: 200px;
+    height: 470px;
+    margin-right: 10px;
+    
+}
+
+img {
+    width: 225px;
+    height: 200px;
+}
+.proudctLink, .prices{
+    display:flex;
+    justify-content: space-around;
+}
+
+.productLink, label{
+    margin-top:6px;
+}
+.productLink button {
+    margin-left: 150px;
+    border-radius: 10px;
+}
